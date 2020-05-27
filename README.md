@@ -112,7 +112,7 @@ Type something. Save & Exit.<br>
 
 `git commit -m "Something_what_you_want"`<br>
 
-`git push`<br>
+`git push -u origin master`<br>
 
 If all is successfully loaded then you can check it in **browser where you project**,but you will see an error.<br>
 
