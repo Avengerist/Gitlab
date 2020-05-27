@@ -86,7 +86,7 @@ Example:<br>
 
 <h2>Open your VM with Gitlab and do the next step</h2><br>
 
-1) `nano /etc/hosts/`<br>
+1) `nano /etc/hosts`<br>
 
 2) Add below: *ip_address_of_gitlab_server myowngitlab.com*<br>
 
