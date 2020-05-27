@@ -128,7 +128,7 @@ If you use **Windows**, then do the next step.<br>
 
 Example:<br>
 
-*myowngitlab.com 192.168.2.2*<br>
+*192.168.2.2 myowngitlab.com*<br>
 
 3) Save & Exit.<br>
 
